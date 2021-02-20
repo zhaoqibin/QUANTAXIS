@@ -2,7 +2,6 @@
 # QUANTAXIS 量化金融策略框架
 
 
-## ATTENTION!!!  QUANTAXIS无任何收费项目 请勿相信任何渠道的私聊!!!
 ------------------
  
 
@@ -10,7 +9,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/quantaxis/quantaxis.svg?style=social&label=Star&)](https://github.com/quantaxis/quantaxis/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/quantaxis/quantaxis.svg?style=social&label=Fork&)](https://github.com/quantaxis/quantaxis/fork)
 
-[点击右上角Star和Watch来跟踪项目进展! 点击Fork来创建属于你的QUANTAXIS!]
 
 ![QUANTAXIS_LOGO_LAST_small.jpg](http://picx.gulizhu.com/Fn0TPEcwu_uhraf58_93Ul5yfvAz)
 
